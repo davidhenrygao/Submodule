@@ -1,0 +1,6 @@
+[submodule "skynet"]
+	path = skynet
+	url = https://github.com/cloudwu/skynet
+[submodule "3rd/test_code"]
+	path = 3rd/test_code
+	url = https://github.com/davidhenrygao/test_code
